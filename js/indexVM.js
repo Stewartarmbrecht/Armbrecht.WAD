@@ -6,6 +6,8 @@
  * To change this template use File | Settings | File Templates.
  */
 
+
+
 var indexVM = function() {
 
     var headerText = "This is a test of the VM.";
